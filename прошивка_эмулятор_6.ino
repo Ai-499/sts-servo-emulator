@@ -4,7 +4,6 @@ Arduino Nano / Uno / Pro Mini (ATmega328P)
 6x AS5600 via TCA9548A I2C multiplexer
 FeeTech STS3215 Protocol v1 over USB-UART @ 1Mbps
 EEPROM calibration (zero offsets + invert flags)
-CALIBRATION: Hold button on A0 during power-on for 2 sec
  */
 #include <Wire.h>
 #include <EEPROM.h>
